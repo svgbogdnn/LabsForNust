@@ -88,7 +88,7 @@ Hashtag
 Bro backed this ting and just started squeezin' (Clarted)
 When it broad day, it was freezin'
 Hashtag fuckery, hashtag screamin'
-One on the hand ting woi, left man lеanin', leanin' (Fucker)
+One on the hand ting woi, left man lеanin', leanin' (Fucker')
 Show us cause it's good to feel it
 Shortiе's cooze and she must be dreamin'
 */
