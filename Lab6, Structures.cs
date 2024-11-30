@@ -17,7 +17,7 @@ using System.Diagnostics;
 using System.Net;
 using System.Numerics;
 // Для работы с потоками данных:
-using System.Threading.Tasks;           // Асинхронные задачи
+using System.Threading.Tasks;           // Асинхронные задачи hah
 
 // Для работы с датами и временем:
 using System.Timers;                    // Для работы с таймерами и временем
